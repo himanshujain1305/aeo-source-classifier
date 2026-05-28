@@ -4,6 +4,14 @@ A Streamlit app for analyzing which sources AI search engines cite for a target 
 
 ---
 
+## Live demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aeo-source-classifier-82ivcsxeef2jtzav9rcucr.streamlit.app/)
+
+[https://aeo-source-classifier-82ivcsxeef2jtzav9rcucr.streamlit.app/](https://aeo-source-classifier-82ivcsxeef2jtzav9rcucr.streamlit.app/)
+
+---
+
 ## Why I built this
 
 Answer Engine Optimization (AEO) is still largely a manual, clipboard-and-spreadsheet discipline. I ran a multi-day source-tracking experiment against a real buyer-intent query using a CustomGPT.ai environment, manually logging the sources cited across repeated runs. The patterns were clear but buried in a raw CSV. I built this tool to surface them visually, flag what persisted, and generate a prioritized recommendation — so the analysis workflow could be repeatable rather than one-off.
