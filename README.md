@@ -55,15 +55,11 @@ The dataset is not affiliated with or endorsed by CustomGPT.ai. It was produced 
 
 ## Screenshots
 
-> _Screenshots coming soon. Run the app locally to see the full interface._
-
-| Dashboard tab | Persistence tab |
+| App view | Screenshot |
 |---|---|
-| `[screenshot placeholder]` | `[screenshot placeholder]` |
-
-| Recommendations tab | Data tab |
-|---|---|
-| `[screenshot placeholder]` | `[screenshot placeholder]` |
+| Dashboard | ![Dashboard](assets/screenshots/dashboard.png) |
+| Persistence | ![Persistence](assets/screenshots/persistence.png) |
+| Recommendations | ![Recommendations](assets/screenshots/recommendations.png) |
 
 ---
 
